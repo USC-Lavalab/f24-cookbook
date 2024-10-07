@@ -1,1 +1,2 @@
 - **Cole:** actually read the entire recipe. like fr. don't skim the instructions.
+- **Kristi:** macarons are an exact science-- don't undermix and don't overmix!
