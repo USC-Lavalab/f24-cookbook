@@ -1,4 +1,4 @@
-Macarons
+# Macarons
 
 1. sift 2 cups of powdered sugar and 1 cup of almond flour
 2. beat 3 egg whites (room temp) for 4 min
@@ -8,10 +8,10 @@ Macarons
 6. let it sit for 30 min; preheat oven to 300F
 7. bake for about 20 min
 
-Buttercream Filling
+# Buttercream Filling
 
 1. beat 1 stick of butter for 4 min
 2. gradually add 3/4 cup of powdered sugar
 3. add 2-3 tablespoons of fruit juice
 
-Bon Appétit!!
+# Bon Appétit!!
