@@ -1,2 +1,3 @@
 - **Cole:** actually read the entire recipe. like fr. don't skim the instructions.
 - **Evan:** use extra cinnamon
+- **Zuhair:** must follow all instuctions - measurements are exact.
