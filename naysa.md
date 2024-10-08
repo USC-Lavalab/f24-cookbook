@@ -3,16 +3,17 @@
 # Ingredients
 
 **A lot of these ingredients just need to be eyeballed tbh**
-About 4 tablespoons of Mole Negro
-2 pieces (letters) of Chocolate Abuelita
-About 1 tablespoon of Chicken Bouillon
-Water
-Corn Tortillas
-Oil
-Queso Fresco
-Sour Cream
-Rotisserie Chicken
-Avocado
+
+- About 4 tablespoons of Mole Negro
+- 2 pieces (letters) of Chocolate Abuelita
+- About 1 tablespoon of Chicken Bouillon
+- Water
+- Corn Tortillas
+- Oil
+- Queso Fresco
+- Sour Cream
+- Rotisserie Chicken
+- Avocado
 
 # Instructions
 
