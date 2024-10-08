@@ -1,4 +1,5 @@
 - **Cole:** actually read the entire recipe. like fr. don't skim the instructions.
 - **Evan:** use extra cinnamon
 - **Zuhair:** must follow all instuctions - measurements are exact.
-- **Cody:**  go ahead and put the extra sauce into a bag and freeze it. Easy meal prep that'll last you weeks in the freezer. Just add pasta!
+- **Cody:** go ahead and put the extra sauce into a bag and freeze it. Easy meal prep that'll last you weeks in the freezer. Just add pasta!
+- **Naysa:** if you want to make the sauce sweeter, add more chocolate; if you want it more savory, add more mole.
