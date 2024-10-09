@@ -6,3 +6,4 @@
 - **Naysa:** if you want to make the sauce sweeter, add more chocolate; if you want it more savory, add more mole.
 - **James:** you're kinda cooked if you can't make scrambled eggs ngl
 - **Shruti** eat them when they're hot!! also don't eat the end with the stem, trust.
+- **Daniel** definitely click on the video tutorial link from james' recipe
