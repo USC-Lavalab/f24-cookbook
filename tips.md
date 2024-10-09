@@ -8,3 +8,4 @@
 - **Shruti** eat them when they're hot!! also don't eat the end with the stem, trust.
 - **Daniel** definitely click on the video tutorial link from james' recipe
 - **Amrita** make sure to taste your gravy in between steps to ensure it has enough spices and salt!
+- **Akhil** simple asf, even i can make it. Easy money just don't burn the garlic
