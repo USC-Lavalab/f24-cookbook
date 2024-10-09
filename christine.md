@@ -1,56 +1,96 @@
-# Pho Recipe :P
+# Christine's Pho Recipe :P
 
-## broth
+## Ingredients
 
-2 pounds beef bones (preferably leg or knuckle bones)
-1 pound beef brisket
-1 large onion (halved)
-1 large piece of ginger (about 3-4 inches, halved)
-4-5 star anise
-3-4 cloves
-2 cinnamon sticks
-1 tablespoon coriander seeds
-1 tablespoon fennel seeds
-1 tablespoon fish sauce
-1 tablespoon sugar
-Salt to taste
-6-8 cups water
-For the Soup:
-8 ounces rice noodles (banh pho)
-½ pound beef sirloin or eye of round, thinly sliced
-Fresh herbs: cilantro, Thai basil, and mint
-Bean sprouts
-1 lime (cut into wedges)
-1-2 Thai chilies (sliced thin)
-Thinly sliced onion
-Hoisin sauce and Sriracha (optional for serving)
+### For the Broth
 
-## instructions
+- 2 pounds beef bones (preferably leg or knuckle bones)
+- 1 pound beef brisket
+- 1 large onion (halved)
+- 1 large piece of ginger (about 3-4 inches, halved)
+- 4-5 star anise
+- 3-4 cloves
+- 2 cinnamon sticks
+- 1 tablespoon coriander seeds
+- 1 tablespoon fennel seeds
+- 1 tablespoon fish sauce
+- 1 tablespoon sugar
+- Salt to taste
+- 6-8 cups water
 
-1. Prepare the Broth:
-   Roast the bones: Preheat your oven to 450°F (230°C). Place the beef bones on a baking sheet and roast for about 30 minutes until browned.
-   Char the ginger and onion: While roasting the bones, char the onion and ginger by placing them on an open flame (stove or grill) until blackened, or roast them in the oven for about 10 minutes.
-   Toast the spices: In a dry pan, lightly toast the star anise, cloves, cinnamon, coriander, and fennel until fragrant (about 2 minutes).
+### For Serving
 
-2. Cook the Broth:
-   In a large stockpot, add the roasted bones, brisket, charred ginger, and onion.
-   Add the toasted spices and enough water to cover everything (about 6-8 cups).
-   Bring the broth to a boil, then reduce to a simmer.
-   Simmer for 4-6 hours, skimming any impurities that rise to the surface.
-   After simmering, remove the brisket and set aside. Strain the broth to remove the bones, spices, ginger, and onion. Add fish sauce, sugar, and salt to taste.
+- 8 ounces rice noodles (banh pho)
+- ½ pound beef sirloin or eye of round, thinly sliced
+- Fresh herbs (cilantro, Thai basil, and mint)
+- Bean sprouts
+- 1 lime, cut into wedges
+- 1-2 Thai chilies, sliced thin
+- Thinly sliced onion
+- Hoisin sauce and Sriracha (optional)
 
-3. Prepare the Noodles:
-   Soak the rice noodles in warm water for about 20 minutes, then cook according to package instructions. Drain and set aside.
+## Instructions
 
-4. Assemble the Pho:
+### 1. Prepare the Broth
 
-Thinly slice the brisket you cooked in the broth.
-Place a portion of cooked rice noodles in each bowl.
-Top with slices of brisket and raw beef (the hot broth will cook the raw slices).
-Pour the hot broth over the noodles and beef.
+- Roast the bones:
 
-5. Garnish and Serve:
-   Garnish with fresh herbs, bean sprouts, thinly sliced onion, and Thai chilies.
-   Serve with lime wedges, hoisin sauce, and Sriracha on the side.
+  - Preheat oven to 450°F (230°C)
+  - Place beef bones on a baking sheet
+  - Roast for about 30 minutes until browned
 
-## enjoy :D
+- Char aromatics:
+
+  - Place onion and ginger on open flame or under broiler
+  - Char until blackened (about 10 minutes)
+
+- Toast spices:
+  - In a dry pan, combine star anise, cloves, cinnamon, coriander, and fennel
+  - Toast until fragrant (about 2 minutes)
+
+### 2. Cook the Broth
+
+- Combine ingredients:
+
+  - Add roasted bones, brisket, charred ginger, and onion to large stockpot
+  - Add toasted spices
+  - Cover with 6-8 cups water
+
+- Simmer:
+  - Bring to boil, then reduce heat
+  - Simmer 4-6 hours
+  - Skim impurities from surface periodically
+  - Remove brisket when tender and set aside
+  - Strain broth
+  - Season with fish sauce, sugar, and salt
+
+### 3. Prepare Noodles
+
+- Soak rice noodles in warm water (20 minutes)
+- Cook according to package instructions
+- Drain and set aside
+
+### 4. Assemble
+
+- Slice cooked brisket thinly
+- Place portion of noodles in each bowl
+- Top with brisket and raw beef slices
+- Pour hot broth over top
+
+### 5. Garnish
+
+- Add fresh herbs
+- Top with bean sprouts
+- Add sliced onions and chilies
+- Serve with:
+  - Lime wedges
+  - Hoisin sauce
+  - Sriracha
+
+## Notes
+
+- The hot broth will cook the raw beef slices
+- Adjust seasonings to taste
+- Traditional accompaniments can be added or removed based on preference
+
+Enjoy! 🍜
