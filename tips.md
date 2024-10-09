@@ -7,3 +7,4 @@
 - **James:** you're kinda cooked if you can't make scrambled eggs ngl
 - **Shruti** eat them when they're hot!! also don't eat the end with the stem, trust.
 - **Daniel** definitely click on the video tutorial link from james' recipe
+- **Amrita** make sure to taste your gravy in between steps to ensure it has enough spices and salt!
