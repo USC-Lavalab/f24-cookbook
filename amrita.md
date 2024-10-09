@@ -17,6 +17,7 @@
 - 1 1/2 tsp ginger garlic paste
 - 1/2 cup water
 - 2 heaped cups diced paneer
+- 1 tsp dried fenugreek leaves
 - 3 tbsp heavy cream
 - 2 tbsp cilantro
 
