@@ -9,3 +9,4 @@
 - **Daniel** definitely click on the video tutorial link from james' recipe
 - **Amrita** make sure to taste your gravy in between steps to ensure it has enough spices and salt!
 - **Akhil** simple asf, even i can make it. Easy money just don't burn the garlic
+- **Jerry** this is a recipe passed down through generations, def not chatgpt
