@@ -5,3 +5,7 @@
 - **Cody:** go ahead and put the extra sauce into a bag and freeze it. Easy meal prep that'll last you weeks in the freezer. Just add pasta!
 - **Naysa:** if you want to make the sauce sweeter, add more chocolate; if you want it more savory, add more mole.
 - **James:** you're kinda cooked if you can't make scrambled eggs ngl
+- **Shruti** eat them when they're hot!! also don't eat the end with the stem, trust.
+- **Daniel** definitely click on the video tutorial link from james' recipe
+- **Amrita** make sure to taste your gravy in between steps to ensure it has enough spices and salt!
+- **Akhil** simple asf, even i can make it. Easy money just don't burn the garlic
